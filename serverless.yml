@@ -7,5 +7,5 @@ provider:
   region: ap-south-1
 
 functions:
-  hello:
+  generateRandomNumber:
     handler: src/handler.generateRandomNumber
